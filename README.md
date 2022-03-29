@@ -48,4 +48,17 @@ CSV for each pyramid. <br> Build a PyramidCSVDAO class to:
     > Build a Main class to use PyramidCSVDAO class and print the basic data about each
 pyramid.
 
+6. [Lab Exercise 6 -betterStringMethod](betterStringMethod)
+    > Your goal is to make a method called betterString that takes two Strings and a lambda 
+that says whether the first or the two is “better”. 
+<br>The method should return that better String; i.e., if the function given by the lambda 
+returns true, the betterString method should return the first String, otherwise 
+betterString should return the second String.
+<br>
+String string1 = ...; 
+<br>
+String string2 = ...; 
+<br>
+String longer = StringUtils.betterString(string1, string2, (s1, s2) -> s1.length() > s2.length()); <br>
+String first = StringUtils.betterString(string1, string2, (s1, s2) -> true);<br>
 
