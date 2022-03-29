@@ -91,3 +91,19 @@ For a given country code (from Console) sort the cities according to the populat
     > [the data set]( https://www.kaggle.com/datasnaek/youtube-new)
 
 
+### Final Project 
+
+[The Project Guide Line](SpringWithSparkProject/1.Java_Final_Exercise_description.pdf)
+
+* This project is web service to get the following from the data set:
+    * Display structure and summary of the data. 
+    * Clean the data (null, duplications) 
+    * Count the jobs for each company and display that in order 
+  * (What are the most demanding companies for jobs?)  in a pie chart
+  * Find out What are it the most popular job titles?  in bar chart
+  * Find out the most popular areas in bar chart 
+  * Print skills one by one and how many each repeated and 
+  * order the output to find out the most important skills required? 
+  * Factorize the YearsExp feature and convert it to numbers in new col. 
+   * Apply K-means for job title and companies
+
