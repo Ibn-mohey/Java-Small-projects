@@ -28,3 +28,7 @@ of a string and cuts it into separate parts based on the dot delimiter.
     12<br>
     30<br>
 
+3. [Lab Exercise 3 - Threads](Try_Thread)
+    > Working with Threads in java throw Threads and Runnable
+
+4. 
