@@ -83,4 +83,11 @@ For a given country code (from Console) sort the cities according to the populat
 <br> Highest population city of each country
 <br> Highest population capital
 
+9. [Lab Exercise 9 - Using Spark on youtube Data](SaprkOnyoutubedata)
+    >  For the dataset that contains US Youtube videos :
+<br> we want to know the most popular title word, so we will focus on the title.
+<br> we want to know the most popular tags, so we will focus on the tags.
+
+    > [the data set]( https://www.kaggle.com/datasnaek/youtube-new)
+
 
