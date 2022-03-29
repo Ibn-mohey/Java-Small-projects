@@ -106,4 +106,6 @@ For a given country code (from Console) sort the cities according to the populat
   * order the output to find out the most important skills required? 
   * Factorize the YearsExp feature and convert it to numbers in new col. 
    * Apply K-means for job title and companies
+### Demo
 
+[Small Video Demo](https://github.com/Ibn-mohey/Java-Small-projects/blob/main/SpringWithSparkProject/Project%20Demo.mkv)
