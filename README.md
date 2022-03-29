@@ -62,3 +62,9 @@ String string2 = ...;
 String longer = StringUtils.betterString(string1, string2, (s1, s2) -> s1.length() > s2.length()); <br>
 String first = StringUtils.betterString(string1, string2, (s1, s2) -> true);<br>
 
+7. [Lab Exercise 7 - Taitanic data EDA with java ](Taitanic_data_EDA_with_java)
+    > Apply xChart for the Titanic Passengers Data Set :
+   * graphPassengerAges
+   * graphPassengerClass
+   * graphPassengersurvived
+   * graphPassengersurvivedGender
