@@ -68,3 +68,19 @@ String first = StringUtils.betterString(string1, string2, (s1, s2) -> true);<br>
    * graphPassengerClass
    * graphPassengersurvived
    * graphPassengersurvivedGender
+
+8. [Lab Exercise 8 - Polutation and Country analysis in Java](Polutation%20and%20Country%20analysis%20in%20Java)
+    > Develop (in a team of 2) an application that reads two files for cities and countries 
+and store each in a List. <br>
+Create a map that uses the country code as keys and a list of cities as the value for 
+each country. <br>
+For a given country code (from Console) sort the cities according to the population
+
+    > Provide classes or methods to get the following:
+<br> Get a List of countries population
+<br> Get the average countries population
+<br> Get the maximum countries population
+<br> Highest population city of each country
+<br> Highest population capital
+
+
